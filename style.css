@@ -1,0 +1,27 @@
+ .bai1 , .bai2 ,.bai3 , .bai4{
+    position: relative;
+}
+.box1 , .box2 {
+    margin-top: 15px;
+    width: 200px;
+    height: 200px;
+    background-color: #cf2748;
+}
+.box3 {
+    margin-top: 15px;
+    width: 200px;
+    height: 200px;
+    background-color: #0B1354;
+}
+ .box4{
+    margin-top: 15px;
+    width: 200px;
+    height: 200px;
+    background-color: #F765A3;
+}
+.box5{
+    margin-top: 15px;
+    width: 200px;
+    height: 200px;
+    background-color: #74d0e0;
+} 
